@@ -23,4 +23,4 @@ Kaggle dataset
 - Model training and evaluation
 
 ## Author
-Chaitra Humbi# Real-fake-job-posting-detection
+Chaitra Humbi
